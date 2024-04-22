@@ -11,7 +11,7 @@ public class Calculator extends JFrame {
     JButton one, two, three, four, five, six, seven, eight, nine,
             zero, add, sub, mul, equals, div, mod, clear, back;
     JTextField text;
-    String _text = "0";
+    String _text = "1051";
     String operation;
     SmallInteger num1;
     boolean IsFirst = true, IsClear = true;
